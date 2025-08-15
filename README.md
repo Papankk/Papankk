@@ -18,7 +18,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Papankk stats](https://github-readme-stats.vercel.app/api?username=Papankk&show_icons=true&theme=default)
+![Papankk's stats](https://github-readme-stats.vercel.app/api?username=Papankk&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Papankk&layout=compact&theme=default)
 
 ---
@@ -29,5 +29,5 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zulfan-9485212ba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/muhammad-zulfan-naharuddin-9485212ba)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zulfan.naharuddin@gmail.com)
