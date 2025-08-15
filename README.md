@@ -1,9 +1,9 @@
-# 👋 Hi, I'm [Muhammad Zulfan Naharuddin]
+# 👋 Hi, I'm Muhammad Zulfan Naharuddin
 
 **Full-Stack Developer | Problem Solver | Lifelong Learner**
 
 💻 I specialize in building robust web applications with clean, maintainable code.  
-🌱 Currently exploring **[Website Developer]** to enhance my skill set.  
+🌱 Currently exploring **Website Developer** to enhance my skill set.  
 🚀 Passionate about creating efficient solutions and learning new technologies.
 
 ---
